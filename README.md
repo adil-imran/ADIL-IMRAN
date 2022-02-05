@@ -1,7 +1,7 @@
 <h3>💬 About me:</h3>
 
-<p align="left">It’s more than two years, I am attached with Python and Data Science 
-field. I have done some small projects and now moved towards mid-level. I have good experience of Python programming, its Data Science 
+<p align="left">It’s more than three years, I am attached with Python and Data Science 
+field. I have done various projects in the Data Science and now moved towards Deep Learning. I have good experienced of Python programming and its Data Science 
 libraries as well as I worked with Python Dask library for Big Data. </p>
 <p align="left">A well-organized and self-motivated person who is eager to learn new things and willing to take on challenges to improve every day. Currently, I am looking for new opportunities in Data Science and Machine Learning field.</p>
 <p align="left">The main technologies I am focusing on are Python, Seaborn, Plotly, Scikit-learn, and TensorFlow among others to tackle real-life challenges.</p>
